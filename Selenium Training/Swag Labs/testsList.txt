@@ -1,0 +1,13 @@
+    1.  Navigate to Website                                     ✔
+    2.  Verify title is Swag Labs                               ✔
+    3.  Verify username text field has label of Username        ✔
+    4.  Verify passowrd text field has label of Password        ✔
+    5.  Enter username (standard_user)                          ✔
+    6.  Enter password (secret_sauce)                           ✔
+    7.  Click login button                                      ✔
+    8.  Verify if successful login opens new page               ✔
+    9.  Verify if unsuccessful login displays error message     ✔
+    10. Verify if A-Z works                                     ✔
+    11. Verify if Z-A works                                     ✔
+    12. Verify if low-high works                                ✔
+    13. Verify if high-low works                                ✔
